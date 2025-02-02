@@ -60,7 +60,7 @@ function ChatBot() {
         User's message: ${user_message}
         
         Generate a 2-3 lines ofthoughtful, emotionally supportive, and solution-oriented response.
-        Give the response in Hindi Language`
+        `
         const bot_reply = get_completion(prompt);
         chat_history.push({ role: "assistant", content: bot_reply });
         return [bot_reply, chat_history];

@@ -44,13 +44,13 @@ function HomePage() {
                     <div className="flex items-center justify-center w-10 h-10 mb-4 mr-2 rounded-full bg-purple-400 lg:mb-0">
                       <MessageCircle className="w-6 h-6 text-deep-purple-900" />
                     </div>
-                    <h6 className="font-semibold leading-5 text-white">Online Counseling</h6>
+                    <h6 className="font-semibold leading-5 text-white">Game Therapy</h6>
                   </div>
                   <p className="mb-2 text-sm text-purple-200">
                     Connect with licensed therapists from the comfort of your home. Flexible scheduling and secure video sessions.
                   </p>
                   <a href="#" className="inline-flex items-center text-sm font-semibold text-white transition-colors duration-200 hover:text-purple-400">
-                    Learn More <ArrowRight className="w-4 h-4 ml-2" />
+                    Start <ArrowRight className="w-4 h-4 ml-2" />
                   </a>
                 </div>
               </div>
@@ -65,13 +65,13 @@ function HomePage() {
                     <div className="flex items-center justify-center w-10 h-10 mb-4 mr-2 rounded-full bg-purple-400 lg:mb-0">
                       <Heart className="w-6 h-6 text-deep-purple-900" />
                     </div>
-                    <h6 className="font-semibold leading-5 text-white">Support Groups</h6>
+                    <h6 className="font-semibold leading-5 text-white">Music Therapy</h6>
                   </div>
                   <p className="mb-2 text-sm text-purple-200">
                     Join our supportive community. Share experiences and learn from others in a safe, moderated environment.
                   </p>
                   <a href="#" className="inline-flex items-center text-sm font-semibold text-white transition-colors duration-200 hover:text-purple-400">
-                    Learn More <ArrowRight className="w-4 h-4 ml-2" />
+                    Start <ArrowRight className="w-4 h-4 ml-2" />
                   </a>
                 </div>
               </div>
@@ -86,13 +86,13 @@ function HomePage() {
                     <div className="flex items-center justify-center w-10 h-10 mb-4 mr-2 rounded-full bg-purple-400 lg:mb-0">
                       <Phone className="w-6 h-6 text-deep-purple-900" />
                     </div>
-                    <h6 className="font-semibold leading-5 text-white">Crisis Support</h6>
+                    <h6 className="font-semibold leading-5 text-white">Video Therapy</h6>
                   </div>
                   <p className="mb-2 text-sm text-purple-200">
                     24/7 emergency support when you need it most. Trained professionals ready to help in critical moments.
                   </p>
                   <a href="#" className="inline-flex items-center text-sm font-semibold text-white transition-colors duration-200 hover:text-purple-400">
-                    Learn More <ArrowRight className="w-4 h-4 ml-2" />
+                    Watch <ArrowRight className="w-4 h-4 ml-2" />
                   </a>
                 </div>
               </div>
